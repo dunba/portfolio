@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "X:\\Dropbox\\CODE"
+	},
+	{
+		"path": "..\\..\\..\\New folder"
+	},
+	{
+		"path": "..\\.."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "CODE"
+  }
+}

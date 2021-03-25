@@ -1,0 +1,58 @@
+.footer-nav {
+  background: white;
+  color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1em 10em 3.5em 8em;
+}
+
+.email {
+  text-align: center;
+  padding-right: 3em;
+  line-height: 0.4em;
+}
+
+.ros {
+  display: flex;
+}
+
+.socials {
+  line-height: 0.1em;
+  text-align: center;
+  display: block;
+}
+
+.icons {
+  display: flex;
+  flex-direction: row;
+  padding: 0px 1em 0px 1em;
+  justify-content: space-around;
+  list-style: none;
+}
+
+#icongraphics {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  width: 100%;
+  padding-left: 0.3em;
+  padding-right: 0.3em;
+  font-size: 1.2em;
+  justify-self: flex-start;
+  color: black;
+}
+a {
+  color: black;
+  list-style: none;
+  text-decoration: none;
+}
+
+#h3font {
+  color: black;
+  font-size: 1.1em;
+}
+span {
+  color: black;
+  font-weight: light;
+}

@@ -1,0 +1,11 @@
+.App {
+  background: #e6dace;
+}
+
+.Content {
+  flex: 1 0 auto;
+  background: #e6dace;
+}
+.Footer {
+  flex-shrink: 0;
+}

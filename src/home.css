@@ -1,0 +1,80 @@
+.homediv {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 5em;
+  margin-top: 6em;
+  margin-left: auto;
+  margin-right: auto;
+  background: #ffffff;
+  width: 35%;
+  align-items: space-between;
+
+  box-shadow: -2px 4px 38px -7px rgba(0, 0, 0, 0.25);
+  /*page load animation goes here*/
+  animation: fadeInAnimation ease 1s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
+.bioleft {
+  background-color: #f4ece6;
+}
+.bioright {
+  background-color: white;
+  display: flex;
+}
+
+.breathingroom {
+  padding: 60px;
+}
+
+#avi {
+  border-radius: 50%;
+  width: 15em;
+}
+
+.mynameis {
+  line-height: 1em;
+  text-align: center;
+  padding: 1em 0 1em 0;
+}
+
+hr {
+  width: 10vh;
+}
+
+.icons2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  list-style: none;
+  width: 60%;
+  align-self: center;
+}
+
+#icongraphics2 {
+  display: flex;
+  list-style: none;
+  width: 10%;
+  font-size: 1.2em;
+  padding: 0.5em;
+  color: black;
+}
+
+.resumebuttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 3em;
+}
+
+button {
+  border-radius: 10%;
+  padding: 0.2em;
+  cursor: pointer;
+}
+
+#resumebttn {
+  background-color: black;
+  color: white;
+}

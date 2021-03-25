@@ -1,0 +1,45 @@
+nav {
+  background: white;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  padding: 1em 6em 2.3em 6em;
+  align-items: center;
+  min-height: 10vh;
+  min-width: 100vh;
+}
+
+.nav-links {
+  color: black;
+  display: flex;
+  width: 20%;
+  justify-self: flex-end;
+  align-items: center;
+  list-style: none;
+}
+
+.myname {
+  font-size: 1.4em;
+  top: 0px;
+  line-height: 0.2em;
+  justify-self: flex-start;
+  text-align: start;
+}
+
+#justportfolio {
+  font-weight: lighter;
+  font-size: 0.9em;
+}
+
+.activetab {
+  color: tomato;
+}
+
+.linkstyle {
+  list-style: none;
+  padding: 10px;
+  font-size: 0.9em;
+}
+.linkstyle:hover {
+  color: tomato;
+}
